@@ -1,4 +1,4 @@
-//Desafio do Felipão
+//Desafio do Felipão - condicional
 let heroi = "Bill";
 let xp = 15000
 let nivel = ""

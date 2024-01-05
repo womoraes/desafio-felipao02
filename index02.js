@@ -1,3 +1,4 @@
+//Desafio com condicional e variaveis
 let heroi = "Bill"
 let resultado = rankeadas(590, 5)
 let nivel = ""

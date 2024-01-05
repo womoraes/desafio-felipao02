@@ -56,7 +56,7 @@ class Heroi{
 }    
     // Saída - criação do novo heroi mediante chamada do método "atacar".
     let novoHeroi = new Heroi(name, age, type);
-    novoHeroi.atacar();
+    novoHeroi.atacar(); 
     
     
     
